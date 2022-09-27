@@ -1,0 +1,10 @@
+{
+"python.venvPath":"/Users/perryshao/opt/miniconda3/envs",
+"python.pythonPath":"/Users/perryshao/opt/miniconda3/envs/myenv/bin/python3",
+"python.venvFolders":[
+    "envs",
+    ".pyenv",
+    ".direnv"
+],
+"code-runner.runInTerminal": true
+}
