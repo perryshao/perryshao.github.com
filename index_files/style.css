@@ -130,6 +130,24 @@ body{
     width: 120px !important;
 }
 
+.news-scroll {
+    height: 300px;
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.news-list {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.news-list li p {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
 .test{
     border: 10px solid;
 }
@@ -172,6 +190,7 @@ body{
   font-size: 20px;
   font-weight: bold;
   color: black;
+  margin: 0;
 }
 
 .paper-author{
